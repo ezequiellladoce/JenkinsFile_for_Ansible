@@ -38,6 +38,9 @@ El código empleado en el Pipeline utiliza los comandos descriptos en el reposit
 ### Creamos el pipeline
 
   - Creamos una Nueva Tarea / Pipeline
+  
+  ![crete](https://user-images.githubusercontent.com/67485607/102814445-6d774880-43a9-11eb-8aa9-94b278d80b34.png)
+  
   - Vamos a la sección pipeline
   - En Pipeline elegimos:
     - Definition : Pipeline script from SCM
@@ -47,6 +50,7 @@ El código empleado en el Pipeline utiliza los comandos descriptos en el reposit
     - Branch Specifier (blank for 'any') : */main
     - Ansible_config.jenkinsfile
     - Guardamos 
+    
   
 ### Construimos el Job
 
