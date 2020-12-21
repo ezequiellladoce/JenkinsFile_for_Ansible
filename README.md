@@ -50,6 +50,7 @@ El código empleado en el Pipeline utiliza los comandos descriptos en el reposit
   
 ### Construimos el Job
 
+![build](https://user-images.githubusercontent.com/67485607/102814348-3a34b980-43a9-11eb-975b-ade27a698a0b.PNG)
 
 
 
