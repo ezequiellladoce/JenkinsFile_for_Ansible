@@ -51,6 +51,7 @@ El código empleado en el Pipeline utiliza los comandos descriptos en el reposit
     - Ansible_config.jenkinsfile
     - Guardamos 
     
+ ![pipeline](https://user-images.githubusercontent.com/67485607/102814743-e37baf80-43a9-11eb-857f-4ffdf1204c8b.PNG)   
   
 ### Construimos el Job
 
